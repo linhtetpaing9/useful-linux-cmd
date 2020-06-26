@@ -4,7 +4,7 @@
 
 dkpg -l | grep <name> => to find <name> running process
   
-sudo find /etc/ -name "*<name>*" => to find specific folder witl file <name>
+sudo find /etc/ -name "*<name>*" => to find specific folder with file <name>
   
 cut -d: -f1 /etc/passwd | grep <name> => check exist password for name
   
