@@ -1,6 +1,6 @@
 # Useful Linux Cmd
 
-<name> = mongo (eg. something like that)
+"<name>" = mongo (eg. something like that)
 
 dkpg -l | grep <name> => to find <name> running process
   
