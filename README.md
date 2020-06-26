@@ -2,7 +2,7 @@
 
 name = mongo (eg. something like that)
 
-dkpg -l | grep name => to find name running process
+dpkg -l | grep name => to find name running process
   
 sudo find /etc/ -name "*name*" => to find specific folder with file name
   
